@@ -140,3 +140,4 @@ D:\IT career\VII modul\ScriptPadSolution\Tests\obj\Debug\net8.0\refint\Tests.dll
 D:\IT career\VII modul\ScriptPadSolution\Tests\obj\Debug\net8.0\Tests.pdb
 D:\IT career\VII modul\ScriptPadSolution\Tests\obj\Debug\net8.0\Tests.genruntimeconfig.cache
 D:\IT career\VII modul\ScriptPadSolution\Tests\obj\Debug\net8.0\ref\Tests.dll
+D:\IT career\VII modul\ScriptPadSolution\Tests\obj\Debug\net8.0\Tests.sourcelink.json

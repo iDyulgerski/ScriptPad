@@ -51,3 +51,4 @@ D:\IT career\VII modul\ScriptPadSolution\MovieSeeder\obj\Debug\net8.0\refint\Mov
 D:\IT career\VII modul\ScriptPadSolution\MovieSeeder\obj\Debug\net8.0\MovieSeeder.pdb
 D:\IT career\VII modul\ScriptPadSolution\MovieSeeder\obj\Debug\net8.0\MovieSeeder.genruntimeconfig.cache
 D:\IT career\VII modul\ScriptPadSolution\MovieSeeder\obj\Debug\net8.0\ref\MovieSeeder.dll
+D:\IT career\VII modul\ScriptPadSolution\MovieSeeder\obj\Debug\net8.0\MovieSeeder.sourcelink.json

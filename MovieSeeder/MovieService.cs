@@ -9,6 +9,7 @@ namespace MovieSeeder
     public class MovieService
     {
         private MovieDbContext db = new MovieDbContext();
+        public string Path { get; set; }
         public void AddMovie(string title, string imageUrl, string note, int rating, DateTime releaseDate)
         {
             this.EnsureDbCreated();
@@ -16,7 +17,7 @@ namespace MovieSeeder
             var movie = new Movie
             {
                 Title = title,
-                ImageUrl = "D:\\IT career\\VII modul\\ScriptPadSolution\\MovieSeeder\\pictures\\Movies\\" + imageUrl,
+                ImageUrl = ConvertPath(Path) + imageUrl,
                 Note = note,
                 Rating = rating,
                 ReleaseDate = releaseDate
@@ -34,6 +35,13 @@ namespace MovieSeeder
         {
             db.Database.EnsureCreated();
         }
-
+        static string ConvertPath(string inputPath)
+        {
+            // Replace backslashes with double backslashes
+            inputPath = inputPath.Replace("\\", "\\\\");
+            string outputPath = inputPath + "\\\\";
+            return outputPath;
+        }
     }
+    
 }

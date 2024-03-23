@@ -5,6 +5,9 @@
         static void Main(string[] args)
         {
             MovieService movieService = new MovieService();
+            Console.Write("Enter your pictures folder path here: ");
+            string path = Console.ReadLine();
+            movieService.Path = path;
 
             // Add movie 1
             movieService.AddMovie("The Shawshank Redemption",
