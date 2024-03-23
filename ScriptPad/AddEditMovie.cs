@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace ScriptPad
 {
-    public partial class Info : Form
+    public partial class AddEditMovie : Form
     {
         private Boolean IsEdit;
         private Movie OriginalMovie;
@@ -20,7 +20,7 @@ namespace ScriptPad
         public int indexLocX;
         public int indexLocY;
 
-        public Info(int x, int y)
+        public AddEditMovie(int x, int y)
         {
             indexLocX = x;
             indexLocY = y;
@@ -28,7 +28,7 @@ namespace ScriptPad
             IsEdit = false;
         }
 
-        public Info(Movie movie, int x, int y)
+        public AddEditMovie(Movie movie, int x, int y)
         {
             indexLocX = x;
             indexLocY = y;
@@ -149,26 +149,6 @@ namespace ScriptPad
             }
 
             MessageBox.Show(text, "", buttons, icon);
-        }
-
-        private void TxtTitle_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void ratingNumeric_ValueChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void DtpReleaseDate_ValueChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void NoteBox_TextChanged(object sender, EventArgs e)
-        {
-
         }
 
         private void BrowseButton_Click(object sender, EventArgs e)

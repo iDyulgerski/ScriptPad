@@ -101,7 +101,7 @@ namespace ScriptPad
 
         private void BtnAdd_Click(object sender, EventArgs e)
         {
-            Info form = new Info(this.Location.X, this.Location.Y);
+            AddEditMovie form = new AddEditMovie(this.Location.X, this.Location.Y);
 
 
             form.ShowDialog();
@@ -149,7 +149,7 @@ namespace ScriptPad
             int id;
             int index;
             Movie? movie;
-            Info form;
+            AddEditMovie form;
 
             //Get movie using control tag/id
             c = (Control)sender;
@@ -160,7 +160,7 @@ namespace ScriptPad
             //Open Add/Edit form
             if (movie != null)
             {
-                form = new Info(movie, this.Location.X, this.Location.Y);
+                form = new AddEditMovie(movie, this.Location.X, this.Location.Y);
                 form.ShowDialog();
                 //Update movie in list and UI
                 if (form.DataSaved)
@@ -234,16 +234,6 @@ namespace ScriptPad
             //Remove panel
             flowLayoutPanel1.Controls.Remove(panel);
             panel.Dispose();
-        }
-
-        private void Index_Load(object sender, EventArgs e)
-        {
-
-        }
-
-        private void bindingSource1_CurrentChanged(object sender, EventArgs e)
-        {
-
         }
     }
 }

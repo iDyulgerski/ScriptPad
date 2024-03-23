@@ -104,7 +104,6 @@
             Name = "Index";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "ScriptPad";
-            Load += Index_Load;
             contextMenuStrip1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);

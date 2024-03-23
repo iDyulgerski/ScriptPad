@@ -42,5 +42,6 @@ D:\IT career\VII modul\ScriptPadSolution\ScriptPad\obj\Debug\net8.0-windows\refi
 D:\IT career\VII modul\ScriptPadSolution\ScriptPad\obj\Debug\net8.0-windows\ScriptPad.pdb
 D:\IT career\VII modul\ScriptPadSolution\ScriptPad\obj\Debug\net8.0-windows\ScriptPad.genruntimeconfig.cache
 D:\IT career\VII modul\ScriptPadSolution\ScriptPad\obj\Debug\net8.0-windows\ref\ScriptPad.dll
-D:\IT career\VII modul\ScriptPadSolution\ScriptPad\obj\Debug\net8.0-windows\ScriptPad.Info.resources
 D:\IT career\VII modul\ScriptPadSolution\ScriptPad\obj\Debug\net8.0-windows\ScriptPad.Properties.Resources.resources
+D:\IT career\VII modul\ScriptPadSolution\ScriptPad\obj\Debug\net8.0-windows\ScriptPad.AddEditMovie.resources
+D:\IT career\VII modul\ScriptPadSolution\ScriptPad\obj\Debug\net8.0-windows\ScriptPad.sourcelink.json

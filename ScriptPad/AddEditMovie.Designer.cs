@@ -1,6 +1,6 @@
 ﻿namespace ScriptPad
 {
-    partial class Info
+    partial class AddEditMovie
     {
         /// <summary>
         /// Required designer variable.
@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Info));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(AddEditMovie));
             label1 = new Label();
             label2 = new Label();
             BtnSave = new Button();
@@ -88,7 +88,6 @@
             TxtTitle.Name = "TxtTitle";
             TxtTitle.Size = new Size(237, 25);
             TxtTitle.TabIndex = 9;
-            TxtTitle.TextChanged += TxtTitle_TextChanged;
             // 
             // TxtImagePath
             // 
@@ -118,7 +117,6 @@
             DtpReleaseDate.RightToLeft = RightToLeft.No;
             DtpReleaseDate.Size = new Size(122, 32);
             DtpReleaseDate.TabIndex = 11;
-            DtpReleaseDate.ValueChanged += DtpReleaseDate_ValueChanged;
             // 
             // ratingNumeric
             // 
@@ -128,7 +126,6 @@
             ratingNumeric.Name = "ratingNumeric";
             ratingNumeric.Size = new Size(62, 28);
             ratingNumeric.TabIndex = 13;
-            ratingNumeric.ValueChanged += ratingNumeric_ValueChanged;
             // 
             // ratingLabel
             // 
@@ -159,7 +156,6 @@
             NoteBox.ScrollBars = ScrollBars.Vertical;
             NoteBox.Size = new Size(265, 168);
             NoteBox.TabIndex = 16;
-            NoteBox.TextChanged += NoteBox_TextChanged;
             // 
             // NoteLabel
             // 
