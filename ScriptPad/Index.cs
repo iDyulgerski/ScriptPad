@@ -56,7 +56,7 @@ namespace ScriptPad
             {
                 labelTitle.Text = movie.Title;
             }
-            
+
             labelTitle.Location = new Point(12, 165);
             labelTitle.ForeColor = Color.Black;
             labelTitle.Font = new Font(this.Font.FontFamily, 9.5f, FontStyle.Regular);
@@ -234,6 +234,11 @@ namespace ScriptPad
             //Remove panel
             flowLayoutPanel1.Controls.Remove(panel);
             panel.Dispose();
+        }
+
+        private void Index_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

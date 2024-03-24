@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "D:\\IT career\\VII modul\\ScriptPadSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2C73BD63-AB23-4A88-BFB5-F653CDC16E23}|MovieSeeder\\MovieSeeder.csproj|D:\\IT career\\VII modul\\ScriptPadSolution\\movieseeder\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C73BD63-AB23-4A88-BFB5-F653CDC16E23}|MovieSeeder\\MovieSeeder.csproj|solutionrelative:movieseeder\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9163343D-1BAC-4458-8745-C072C8006CE6}|ScriptPad\\ScriptPad.csproj|d:\\it career\\vii modul\\scriptpadsolution\\scriptpad\\index.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9163343D-1BAC-4458-8745-C072C8006CE6}|ScriptPad\\ScriptPad.csproj|solutionrelative:scriptpad\\index.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9163343D-1BAC-4458-8745-C072C8006CE6}|ScriptPad\\ScriptPad.csproj|D:\\IT career\\VII modul\\ScriptPadSolution\\scriptpad\\index.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9163343D-1BAC-4458-8745-C072C8006CE6}|ScriptPad\\ScriptPad.csproj|solutionrelative:scriptpad\\index.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C73BD63-AB23-4A88-BFB5-F653CDC16E23}|MovieSeeder\\MovieSeeder.csproj|D:\\IT career\\VII modul\\ScriptPadSolution\\movieseeder\\moviedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C73BD63-AB23-4A88-BFB5-F653CDC16E23}|MovieSeeder\\MovieSeeder.csproj|solutionrelative:movieseeder\\moviedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9163343D-1BAC-4458-8745-C072C8006CE6}|ScriptPad\\ScriptPad.csproj|D:\\IT career\\VII modul\\ScriptPadSolution\\scriptpad\\index.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9163343D-1BAC-4458-8745-C072C8006CE6}|ScriptPad\\ScriptPad.csproj|solutionrelative:scriptpad\\index.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7CA954A1-A4C6-4F30-B236-6F82FD8F4010}|Tests\\Tests.csproj|D:\\IT career\\VII modul\\ScriptPadSolution\\tests\\movieservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7CA954A1-A4C6-4F30-B236-6F82FD8F4010}|Tests\\Tests.csproj|solutionrelative:tests\\movieservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C73BD63-AB23-4A88-BFB5-F653CDC16E23}|MovieSeeder\\MovieSeeder.csproj|D:\\IT career\\VII modul\\ScriptPadSolution\\movieseeder\\moviedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C73BD63-AB23-4A88-BFB5-F653CDC16E23}|MovieSeeder\\MovieSeeder.csproj|solutionrelative:movieseeder\\moviedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2C73BD63-AB23-4A88-BFB5-F653CDC16E23}|MovieSeeder\\MovieSeeder.csproj|D:\\IT career\\VII modul\\ScriptPadSolution\\movieseeder\\movieseeder.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2C73BD63-AB23-4A88-BFB5-F653CDC16E23}|MovieSeeder\\MovieSeeder.csproj|solutionrelative:movieseeder\\movieseeder.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2C73BD63-AB23-4A88-BFB5-F653CDC16E23}|MovieSeeder\\MovieSeeder.csproj|D:\\IT career\\VII modul\\ScriptPadSolution\\movieseeder\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,32 +35,16 @@
       "RelativeMoniker": "D:0:0:{2C73BD63-AB23-4A88-BFB5-F653CDC16E23}|MovieSeeder\\MovieSeeder.csproj|solutionrelative:movieseeder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9163343D-1BAC-4458-8745-C072C8006CE6}|ScriptPad\\ScriptPad.csproj|d:\\it career\\vii modul\\scriptpadsolution\\scriptpad\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9163343D-1BAC-4458-8745-C072C8006CE6}|ScriptPad\\ScriptPad.csproj|solutionrelative:scriptpad\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9163343D-1BAC-4458-8745-C072C8006CE6}|ScriptPad\\ScriptPad.csproj|D:\\IT career\\VII modul\\ScriptPadSolution\\scriptpad\\index.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9163343D-1BAC-4458-8745-C072C8006CE6}|ScriptPad\\ScriptPad.csproj|solutionrelative:scriptpad\\index.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9163343D-1BAC-4458-8745-C072C8006CE6}|ScriptPad\\ScriptPad.csproj|D:\\IT career\\VII modul\\ScriptPadSolution\\scriptpad\\index.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9163343D-1BAC-4458-8745-C072C8006CE6}|ScriptPad\\ScriptPad.csproj|solutionrelative:scriptpad\\index.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9163343D-1BAC-4458-8745-C072C8006CE6}|ScriptPad\\ScriptPad.csproj|D:\\IT career\\VII modul\\ScriptPadSolution\\scriptpad\\addeditmovie.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9163343D-1BAC-4458-8745-C072C8006CE6}|ScriptPad\\ScriptPad.csproj|solutionrelative:scriptpad\\addeditmovie.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9163343D-1BAC-4458-8745-C072C8006CE6}|ScriptPad\\ScriptPad.csproj|D:\\IT career\\VII modul\\ScriptPadSolution\\scriptpad\\addeditmovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9163343D-1BAC-4458-8745-C072C8006CE6}|ScriptPad\\ScriptPad.csproj|solutionrelative:scriptpad\\addeditmovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2C73BD63-AB23-4A88-BFB5-F653CDC16E23}|MovieSeeder\\MovieSeeder.csproj|D:\\IT career\\VII modul\\ScriptPadSolution\\movieseeder\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C73BD63-AB23-4A88-BFB5-F653CDC16E23}|MovieSeeder\\MovieSeeder.csproj|solutionrelative:movieseeder\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9163343D-1BAC-4458-8745-C072C8006CE6}|ScriptPad\\ScriptPad.csproj|D:\\IT career\\VII modul\\ScriptPadSolution\\scriptpad\\addeditmovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9163343D-1BAC-4458-8745-C072C8006CE6}|ScriptPad\\ScriptPad.csproj|solutionrelative:scriptpad\\addeditmovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9163343D-1BAC-4458-8745-C072C8006CE6}|ScriptPad\\ScriptPad.csproj|D:\\IT career\\VII modul\\ScriptPadSolution\\scriptpad\\index.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9163343D-1BAC-4458-8745-C072C8006CE6}|ScriptPad\\ScriptPad.csproj|solutionrelative:scriptpad\\index.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{9163343D-1BAC-4458-8745-C072C8006CE6}|ScriptPad\\ScriptPad.csproj|D:\\IT career\\VII modul\\ScriptPadSolution\\scriptpad\\moviedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9163343D-1BAC-4458-8745-C072C8006CE6}|ScriptPad\\ScriptPad.csproj|solutionrelative:scriptpad\\moviedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,11 +54,83 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 6,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "D:\\IT career\\VII modul\\ScriptPadSolution\\MovieSeeder\\Movie.cs",
+              "RelativeDocumentMoniker": "MovieSeeder\\Movie.cs",
+              "ToolTip": "D:\\IT career\\VII modul\\ScriptPadSolution\\MovieSeeder\\Movie.cs",
+              "RelativeToolTip": "MovieSeeder\\Movie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T08:29:06.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "D:\\IT career\\VII modul\\ScriptPadSolution\\MovieSeeder\\MovieService.cs",
+              "RelativeDocumentMoniker": "MovieSeeder\\MovieService.cs",
+              "ToolTip": "D:\\IT career\\VII modul\\ScriptPadSolution\\MovieSeeder\\MovieService.cs",
+              "RelativeToolTip": "MovieSeeder\\MovieService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T08:28:10.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cs",
+              "DocumentMoniker": "D:\\IT career\\VII modul\\ScriptPadSolution\\ScriptPad\\Index.cs",
+              "RelativeDocumentMoniker": "ScriptPad\\Index.cs",
+              "ToolTip": "D:\\IT career\\VII modul\\ScriptPadSolution\\ScriptPad\\Index.cs",
+              "RelativeToolTip": "ScriptPad\\Index.cs",
+              "ViewState": "AQIAALoAAAAAAAAAAAAzwC8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T08:18:30.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddEditMovie.cs [Design]",
+              "DocumentMoniker": "D:\\IT career\\VII modul\\ScriptPadSolution\\ScriptPad\\AddEditMovie.cs",
+              "RelativeDocumentMoniker": "ScriptPad\\AddEditMovie.cs",
+              "ToolTip": "D:\\IT career\\VII modul\\ScriptPadSolution\\ScriptPad\\AddEditMovie.cs [Design]",
+              "RelativeToolTip": "ScriptPad\\AddEditMovie.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T08:18:25.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovieDbContext.cs",
+              "DocumentMoniker": "D:\\IT career\\VII modul\\ScriptPadSolution\\MovieSeeder\\MovieDbContext.cs",
+              "RelativeDocumentMoniker": "MovieSeeder\\MovieDbContext.cs",
+              "ToolTip": "D:\\IT career\\VII modul\\ScriptPadSolution\\MovieSeeder\\MovieDbContext.cs",
+              "RelativeToolTip": "MovieSeeder\\MovieDbContext.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T08:23:07.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.Designer.cs",
+              "DocumentMoniker": "D:\\IT career\\VII modul\\ScriptPadSolution\\ScriptPad\\Index.Designer.cs",
+              "RelativeDocumentMoniker": "ScriptPad\\Index.Designer.cs",
+              "ToolTip": "D:\\IT career\\VII modul\\ScriptPadSolution\\ScriptPad\\Index.Designer.cs",
+              "RelativeToolTip": "ScriptPad\\Index.Designer.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T08:31:21.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Index.cs [Design]",
               "DocumentMoniker": "D:\\IT career\\VII modul\\ScriptPadSolution\\ScriptPad\\Index.cs",
               "RelativeDocumentMoniker": "ScriptPad\\Index.cs",
@@ -73,140 +141,51 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MovieDbContext.cs",
-              "DocumentMoniker": "D:\\IT career\\VII modul\\ScriptPadSolution\\MovieSeeder\\MovieDbContext.cs",
-              "RelativeDocumentMoniker": "MovieSeeder\\MovieDbContext.cs",
-              "ToolTip": "D:\\IT career\\VII modul\\ScriptPadSolution\\MovieSeeder\\MovieDbContext.cs",
-              "RelativeToolTip": "MovieSeeder\\MovieDbContext.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-23T08:23:07.132Z",
-              "EditorCaption": ""
+              "DocumentIndex": 5,
+              "Title": "MovieSeeder.csproj",
+              "DocumentMoniker": "D:\\IT career\\VII modul\\ScriptPadSolution\\MovieSeeder\\MovieSeeder.csproj",
+              "RelativeDocumentMoniker": "MovieSeeder\\MovieSeeder.csproj",
+              "ToolTip": "D:\\IT career\\VII modul\\ScriptPadSolution\\MovieSeeder\\MovieSeeder.csproj",
+              "RelativeToolTip": "MovieSeeder\\MovieSeeder.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-24T08:30:15.837Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "MovieServiceTest.cs",
               "DocumentMoniker": "D:\\IT career\\VII modul\\ScriptPadSolution\\Tests\\MovieServiceTest.cs",
               "RelativeDocumentMoniker": "Tests\\MovieServiceTest.cs",
               "ToolTip": "D:\\IT career\\VII modul\\ScriptPadSolution\\Tests\\MovieServiceTest.cs",
               "RelativeToolTip": "Tests\\MovieServiceTest.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAAACAAAAAwAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-23T07:47:09.88Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-24T08:30:44.727Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Movie.cs",
-              "DocumentMoniker": "D:\\IT career\\VII modul\\ScriptPadSolution\\MovieSeeder\\Movie.cs",
-              "RelativeDocumentMoniker": "MovieSeeder\\Movie.cs",
-              "ToolTip": "D:\\IT career\\VII modul\\ScriptPadSolution\\MovieSeeder\\Movie.cs",
-              "RelativeToolTip": "MovieSeeder\\Movie.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-23T08:23:08.656Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MovieService.cs",
-              "DocumentMoniker": "D:\\IT career\\VII modul\\ScriptPadSolution\\MovieSeeder\\MovieService.cs",
-              "RelativeDocumentMoniker": "MovieSeeder\\MovieService.cs",
-              "ToolTip": "D:\\IT career\\VII modul\\ScriptPadSolution\\MovieSeeder\\MovieService.cs",
-              "RelativeToolTip": "MovieSeeder\\MovieService.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAA8wCsAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-23T08:22:57.637Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\IT career\\VII modul\\ScriptPadSolution\\MovieSeeder\\Program.cs",
               "RelativeDocumentMoniker": "MovieSeeder\\Program.cs",
               "ToolTip": "D:\\IT career\\VII modul\\ScriptPadSolution\\MovieSeeder\\Program.cs",
               "RelativeToolTip": "MovieSeeder\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwAgAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-23T08:22:53.693Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Movie.cs",
-              "DocumentMoniker": "D:\\IT career\\VII modul\\ScriptPadSolution\\ScriptPad\\Movie.cs",
-              "RelativeDocumentMoniker": "ScriptPad\\Movie.cs",
-              "ToolTip": "D:\\IT career\\VII modul\\ScriptPadSolution\\ScriptPad\\Movie.cs",
-              "RelativeToolTip": "ScriptPad\\Movie.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAxwBQAAABhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-23T22:36:14.221Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Index.cs",
-              "DocumentMoniker": "D:\\IT career\\VII modul\\ScriptPadSolution\\ScriptPad\\Index.cs",
-              "RelativeDocumentMoniker": "ScriptPad\\Index.cs",
-              "ToolTip": "D:\\IT career\\VII modul\\ScriptPadSolution\\ScriptPad\\Index.cs",
-              "RelativeToolTip": "ScriptPad\\Index.cs",
-              "ViewState": "AQIAAHgAAAAAAAAAAAAmwNgAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-23T20:31:57.455Z"
+              "WhenOpened": "2024-03-23T08:22:53.693Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "AddEditMovie.cs [Design]",
-              "DocumentMoniker": "D:\\IT career\\VII modul\\ScriptPadSolution\\ScriptPad\\AddEditMovie.cs",
-              "RelativeDocumentMoniker": "ScriptPad\\AddEditMovie.cs",
-              "ToolTip": "D:\\IT career\\VII modul\\ScriptPadSolution\\ScriptPad\\AddEditMovie.cs [Design]",
-              "RelativeToolTip": "ScriptPad\\AddEditMovie.cs [Design]",
+              "Title": "MovieDbContext.cs",
+              "DocumentMoniker": "D:\\IT career\\VII modul\\ScriptPadSolution\\ScriptPad\\MovieDbContext.cs",
+              "RelativeDocumentMoniker": "ScriptPad\\MovieDbContext.cs",
+              "ToolTip": "D:\\IT career\\VII modul\\ScriptPadSolution\\ScriptPad\\MovieDbContext.cs",
+              "RelativeToolTip": "ScriptPad\\MovieDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-23T20:35:47.442Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AddEditMovie.cs",
-              "DocumentMoniker": "D:\\IT career\\VII modul\\ScriptPadSolution\\ScriptPad\\AddEditMovie.cs",
-              "RelativeDocumentMoniker": "ScriptPad\\AddEditMovie.cs",
-              "ToolTip": "D:\\IT career\\VII modul\\ScriptPadSolution\\ScriptPad\\AddEditMovie.cs",
-              "RelativeToolTip": "ScriptPad\\AddEditMovie.cs",
-              "ViewState": "AQIAAJIAAAAAAAAAAAAhwJcAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-23T20:35:49.13Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AddEditMovie.Designer.cs",
-              "DocumentMoniker": "D:\\IT career\\VII modul\\ScriptPadSolution\\ScriptPad\\AddEditMovie.Designer.cs",
-              "RelativeDocumentMoniker": "ScriptPad\\AddEditMovie.Designer.cs",
-              "ToolTip": "D:\\IT career\\VII modul\\ScriptPadSolution\\ScriptPad\\AddEditMovie.Designer.cs",
-              "RelativeToolTip": "ScriptPad\\AddEditMovie.Designer.cs",
-              "ViewState": "AQIAAG8AAAAAAAAAAAAowJ0AAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-23T20:40:11.564Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Index.Designer.cs",
-              "DocumentMoniker": "D:\\IT career\\VII modul\\ScriptPadSolution\\ScriptPad\\Index.Designer.cs",
-              "RelativeDocumentMoniker": "ScriptPad\\Index.Designer.cs",
-              "ToolTip": "D:\\IT career\\VII modul\\ScriptPadSolution\\ScriptPad\\Index.Designer.cs",
-              "RelativeToolTip": "ScriptPad\\Index.Designer.cs",
-              "ViewState": "AQIAAFIAAAAAAAAAAAAAAGkAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-23T20:45:31.169Z"
+              "WhenOpened": "2024-03-24T08:17:15.479Z"
             }
           ]
         }

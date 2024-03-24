@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MovieSeeder")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad116d6670f7fd1aa8afc074dd062eb63659c92e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+659fe5f1bc3a7bc2b1ba9f9faa3c16b1a97f010a")]
 [assembly: System.Reflection.AssemblyProductAttribute("MovieSeeder")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MovieSeeder")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
