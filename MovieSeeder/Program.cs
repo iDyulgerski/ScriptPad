@@ -216,7 +216,7 @@
             movieService.AddMovie("Avatar 2",
                 "avatar_2.jpg",
                 "The highly anticipated sequel to the groundbreaking original.",
-                -1, // You may not have a rating yet for Avatar 2 as it's not released at the time of this response.
+                10, // You may not have a rating yet for Avatar 2 as it's not released at the time of this response.
                 new DateTime(2022, 12, 16)); // Adjust release date if necessary.
 
         }

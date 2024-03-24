@@ -45,10 +45,10 @@ D:\IT career\VII modul\ScriptPadSolution\MovieSeeder\obj\Debug\net8.0\MovieSeede
 D:\IT career\VII modul\ScriptPadSolution\MovieSeeder\obj\Debug\net8.0\MovieSeeder.AssemblyInfoInputs.cache
 D:\IT career\VII modul\ScriptPadSolution\MovieSeeder\obj\Debug\net8.0\MovieSeeder.AssemblyInfo.cs
 D:\IT career\VII modul\ScriptPadSolution\MovieSeeder\obj\Debug\net8.0\MovieSeeder.csproj.CoreCompileInputs.cache
+D:\IT career\VII modul\ScriptPadSolution\MovieSeeder\obj\Debug\net8.0\MovieSeeder.sourcelink.json
 D:\IT career\VII modul\ScriptPadSolution\MovieSeeder\obj\Debug\net8.0\MovieSee.9DD30565.Up2Date
 D:\IT career\VII modul\ScriptPadSolution\MovieSeeder\obj\Debug\net8.0\MovieSeeder.dll
 D:\IT career\VII modul\ScriptPadSolution\MovieSeeder\obj\Debug\net8.0\refint\MovieSeeder.dll
 D:\IT career\VII modul\ScriptPadSolution\MovieSeeder\obj\Debug\net8.0\MovieSeeder.pdb
 D:\IT career\VII modul\ScriptPadSolution\MovieSeeder\obj\Debug\net8.0\MovieSeeder.genruntimeconfig.cache
 D:\IT career\VII modul\ScriptPadSolution\MovieSeeder\obj\Debug\net8.0\ref\MovieSeeder.dll
-D:\IT career\VII modul\ScriptPadSolution\MovieSeeder\obj\Debug\net8.0\MovieSeeder.sourcelink.json

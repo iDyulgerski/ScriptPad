@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ScriptPad")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+659fe5f1bc3a7bc2b1ba9f9faa3c16b1a97f010a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+326bfffd495ac36238666bd014f28c6f3d7a9643")]
 [assembly: System.Reflection.AssemblyProductAttribute("ScriptPad")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ScriptPad")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

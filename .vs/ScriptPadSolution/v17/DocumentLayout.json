@@ -3,7 +3,11 @@
   "WorkspaceRootPath": "D:\\IT career\\VII modul\\ScriptPadSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9163343D-1BAC-4458-8745-C072C8006CE6}|ScriptPad\\ScriptPad.csproj|d:\\it career\\vii modul\\scriptpadsolution\\scriptpad\\index.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2C73BD63-AB23-4A88-BFB5-F653CDC16E23}|MovieSeeder\\MovieSeeder.csproj|d:\\it career\\vii modul\\scriptpadsolution\\movieseeder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C73BD63-AB23-4A88-BFB5-F653CDC16E23}|MovieSeeder\\MovieSeeder.csproj|solutionrelative:movieseeder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9163343D-1BAC-4458-8745-C072C8006CE6}|ScriptPad\\ScriptPad.csproj|D:\\IT career\\VII modul\\ScriptPadSolution\\scriptpad\\index.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9163343D-1BAC-4458-8745-C072C8006CE6}|ScriptPad\\ScriptPad.csproj|solutionrelative:scriptpad\\index.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -31,10 +35,6 @@
       "RelativeMoniker": "D:0:0:{2C73BD63-AB23-4A88-BFB5-F653CDC16E23}|MovieSeeder\\MovieSeeder.csproj|solutionrelative:movieseeder\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C73BD63-AB23-4A88-BFB5-F653CDC16E23}|MovieSeeder\\MovieSeeder.csproj|D:\\IT career\\VII modul\\ScriptPadSolution\\movieseeder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C73BD63-AB23-4A88-BFB5-F653CDC16E23}|MovieSeeder\\MovieSeeder.csproj|solutionrelative:movieseeder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2C73BD63-AB23-4A88-BFB5-F653CDC16E23}|MovieSeeder\\MovieSeeder.csproj|D:\\IT career\\VII modul\\ScriptPadSolution\\movieseeder\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C73BD63-AB23-4A88-BFB5-F653CDC16E23}|MovieSeeder\\MovieSeeder.csproj|solutionrelative:movieseeder\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -54,20 +54,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Movie.cs",
-              "DocumentMoniker": "D:\\IT career\\VII modul\\ScriptPadSolution\\MovieSeeder\\Movie.cs",
-              "RelativeDocumentMoniker": "MovieSeeder\\Movie.cs",
-              "ToolTip": "D:\\IT career\\VII modul\\ScriptPadSolution\\MovieSeeder\\Movie.cs",
-              "RelativeToolTip": "MovieSeeder\\Movie.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-24T08:29:06.307Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 8,
@@ -82,16 +70,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cs",
               "DocumentMoniker": "D:\\IT career\\VII modul\\ScriptPadSolution\\ScriptPad\\Index.cs",
               "RelativeDocumentMoniker": "ScriptPad\\Index.cs",
               "ToolTip": "D:\\IT career\\VII modul\\ScriptPadSolution\\ScriptPad\\Index.cs",
               "RelativeToolTip": "ScriptPad\\Index.cs",
-              "ViewState": "AQIAALoAAAAAAAAAAAAzwC8AAAAdAAAA",
+              "ViewState": "AQIAALsAAAAAAAAAAAAAwC8AAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-24T08:18:30.302Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-24T08:18:30.302Z"
             },
             {
               "$type": "Document",
@@ -106,7 +93,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MovieDbContext.cs",
               "DocumentMoniker": "D:\\IT career\\VII modul\\ScriptPadSolution\\MovieSeeder\\MovieDbContext.cs",
               "RelativeDocumentMoniker": "MovieSeeder\\MovieDbContext.cs",
@@ -118,7 +105,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Index.Designer.cs",
               "DocumentMoniker": "D:\\IT career\\VII modul\\ScriptPadSolution\\ScriptPad\\Index.Designer.cs",
               "RelativeDocumentMoniker": "ScriptPad\\Index.Designer.cs",
@@ -130,7 +117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Index.cs [Design]",
               "DocumentMoniker": "D:\\IT career\\VII modul\\ScriptPadSolution\\ScriptPad\\Index.cs",
               "RelativeDocumentMoniker": "ScriptPad\\Index.cs",
@@ -141,7 +128,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\IT career\\VII modul\\ScriptPadSolution\\MovieSeeder\\Program.cs",
+              "RelativeDocumentMoniker": "MovieSeeder\\Program.cs",
+              "ToolTip": "D:\\IT career\\VII modul\\ScriptPadSolution\\MovieSeeder\\Program.cs",
+              "RelativeToolTip": "MovieSeeder\\Program.cs",
+              "ViewState": "AQIAANAAAAAAAAAAAAAQwNoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T08:22:53.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "D:\\IT career\\VII modul\\ScriptPadSolution\\MovieSeeder\\Movie.cs",
+              "RelativeDocumentMoniker": "MovieSeeder\\Movie.cs",
+              "ToolTip": "D:\\IT career\\VII modul\\ScriptPadSolution\\MovieSeeder\\Movie.cs",
+              "RelativeToolTip": "MovieSeeder\\Movie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T08:29:06.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "MovieSeeder.csproj",
               "DocumentMoniker": "D:\\IT career\\VII modul\\ScriptPadSolution\\MovieSeeder\\MovieSeeder.csproj",
               "RelativeDocumentMoniker": "MovieSeeder\\MovieSeeder.csproj",
@@ -153,7 +165,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "MovieServiceTest.cs",
               "DocumentMoniker": "D:\\IT career\\VII modul\\ScriptPadSolution\\Tests\\MovieServiceTest.cs",
               "RelativeDocumentMoniker": "Tests\\MovieServiceTest.cs",
@@ -162,18 +174,6 @@
               "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-24T08:30:44.727Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\IT career\\VII modul\\ScriptPadSolution\\MovieSeeder\\Program.cs",
-              "RelativeDocumentMoniker": "MovieSeeder\\Program.cs",
-              "ToolTip": "D:\\IT career\\VII modul\\ScriptPadSolution\\MovieSeeder\\Program.cs",
-              "RelativeToolTip": "MovieSeeder\\Program.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAQwAgAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-23T08:22:53.693Z"
             },
             {
               "$type": "Document",
